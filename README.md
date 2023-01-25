@@ -4,3 +4,4 @@ Country와 함꼐하는 Git 교실
 
 
 -fast forward exer
+-3-way other
