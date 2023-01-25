@@ -1,5 +1,5 @@
 Country와 함꼐하는 Git 교실
-- master pr conflict
+- master & feature pr conflict
 - rebase 1.2.
 - rebase 3.
 
